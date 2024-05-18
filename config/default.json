@@ -1,0 +1,5 @@
+{
+    "usermodule" : "local",
+    "DB_STRING":"mongodb+srv://nitin0969be21:mRdE5UyeDgq6n2We@cluster0.0eckoha.mongodb.net/?retryWrites=true&w=majority"
+
+}
